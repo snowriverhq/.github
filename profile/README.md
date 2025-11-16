@@ -12,7 +12,8 @@ Snow River Advisory is a fractional CFO + Controller firm serving nonprofit orga
 Most repositories here are private and operational in nature.  
 This organization is **not** a support channel and does not publish client-facing software or other resources.
 
-If you're looking for Snow River Advisory, please visit the public site: [(https://github.com/snowriveradvisory)]
+If you're looking for Snow River Advisory, please visit the public organization **github.com/snowriveradvisory**
+To learn more or get in touch, please visit our main site at **snowriveradvsory.com**
 
 > **Snow River Advisory**  
 > Fractional CFO + Controller for Nonprofits  
