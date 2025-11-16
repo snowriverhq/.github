@@ -14,8 +14,11 @@ This organization is **not** a support channel and does not publish client-facin
 
 If you're looking for Snow River Advisory, please visit the public organization **https://github.com/snowriveradvisory**
 
-To learn more or get in touch, please visit our main site at **https://snowriveradvisory.com**
 
 > **Snow River Advisory**  
 > Fractional CFO + Controller for Nonprofits  
 > Clarity • Insight • Stewardship
+
+To learn more or get in touch, please visit:
+
+**https://snowriveradvisory.com**
